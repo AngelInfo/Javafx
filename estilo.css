@@ -1,0 +1,47 @@
+.root {
+    -fx-background-color: #f0f0f0; /* Color de fondo principal - gris claro */
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: #fff;
+    -fx-font-size: 14px;
+    -fx-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -fx-background-radius: 5;
+}
+
+.label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #333;
+    -fx-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text-field {
+    -fx-font-size: 14px;
+    -fx-background-color: #fff;
+    -fx-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -fx-background-radius: 5;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+    -fx-text-fill: #fff;
+}
+
+.window {
+    -fx-background-color: #dcdcdc;
+}
+
+
+.table-view {
+    -fx-background-color: #e0e0e0;
+}
+
+.table-row-cell {
+    -fx-background-color: #d3d3d3;
+}
+
+.table-cell {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333;
+}
